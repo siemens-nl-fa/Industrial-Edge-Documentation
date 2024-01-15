@@ -2,6 +2,15 @@
 In this  summary, the provided information is bundled on various applications and solutions along with direct links to their respective manuals and other things.
 
 
+## Ecosystem
+### Hub (IEHUB)
+###### Getting access [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_hub/setup/ieh_index.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-access?cclcl=nl_NL)
+
+### Management (IEM)
+
+### Device (IED)
+
+
 ## Applications
 ### Connectivity
 ###### S7 Connector - [Manual](https://support.industry.siemens.com/cs/document/109823921/simatic-s7-connector-v2-0-0)<br>
@@ -30,7 +39,6 @@ In this  summary, the provided information is bundled on various applications an
 ###### IIH Essentials - [Manual](https://support.industry.siemens.com/cs/document/109826974/iih-essentials-for-industrial-edge), [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-essentials)
 ###### IIH Semantics - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-semantics)
 
-[manual](),
 
 ###  Analytics 
 ###### AI Inference Server - [Manual](https://support.industry.siemens.com/cs/document/109814799/ai-inference-server), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ai-inference-server)
