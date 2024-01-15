@@ -24,7 +24,7 @@ In this  summary, the provided information is bundled on various applications an
 <br>
 
 ### Device (IED)
-###### Industrial Edge Device - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_device/operation/apps/apps.html), [Manual](https://support.industry.siemens.com/cs/document/109826755/simatic-ipc-industrial-edge-device-operation-v2-0), [ ied logging and monitoring](https://github.com/industrial-edge/ied-logging-and-monitoring)
+###### Industrial Edge Device - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_device/operation/apps/apps.html), [Manual](https://support.industry.siemens.com/cs/document/109826755/simatic-ipc-industrial-edge-device-operation-v2-0), [ied-logging-and-monitoring](https://github.com/industrial-edge/ied-logging-and-monitoring)
 ###### Industrial Edge Device Service Stick - [Manual](https://support.industry.siemens.com/cs/document/109815667/industrial-edge-device-service-stick)
 ###### Industrial Edge Virtual Device - [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-virtual-device)
 ######  SIMATIC IPC227G Industrial Edge Device - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ipc227g-industrial-edge-device)
