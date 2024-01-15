@@ -1,20 +1,47 @@
 # Documentation 
 In this  summary, the provided information is bundled on various applications and solutions along with direct links to their respective manuals and other things.
 
+###### Name - []()
 
 ## Ecosystem
+###### Security - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/security/security_overview/gdpr.html), [Manual](https://support.industry.siemens.com/cs/document/109814450/industrial-edge-security-overview-10-22?dti=0&lc=en-US) [Manual - IPC](https://support.industry.siemens.com/cs/document/109823654/simatic-ipc-industrial-edge-device-security-manual-v1-0?dti=0&lc=en-US)
+###### Updates - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/update_procedures/overview.html), [Manual](https://support.industry.siemens.com/cs/document/109813153/industrial-edge-update-procedures-08-22?dti=0&lc=en-US)
+###### App Development - [Webdoc](https://docs.eu1.edge.siemens.cloud/develop_an_application/index.html), [Manual](https://support.industry.siemens.com/cs/document/109795865/industrial-edge-app-developer-guide-v1-2-1?dti=0&lc=en-US)
+###### APIs & References - [Webdoc - APIs](https://docs.eu1.edge.siemens.cloud/apis_and_references/apis/index.html), [Webdoc - Ctl](https://docs.eu1.edge.siemens.cloud/apis_and_references/iectl/index.html)
+
 ### Hub (IEHUB)
-###### Getting access [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_hub/setup/ieh_index.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-access?cclcl=nl_NL)
+###### Industrial Edge Hub Access - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_hub/setup/ieh_index.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-access?cclcl=nl_NL)
+###### Hub-to-Hub Credit - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_hub/operation/application_provisioning/hub2hub.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/hub-to-hub-credit?cclcl=nl_NL)
+
 
 ### Management (IEM)
+###### Industrial Edge Management - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_management/overview.html), [Webdoc - IEM Virtual](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_management/v/introduction/overview.html), [Webdoc - IEM OS](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_management/vm/setup/setting_up_the_iem/setup_steps.html)
+###### Industrial Edge Management Cloud - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_management/cloud/setup/setting_up_the_iem/creating_and_provisioning_iem_cloud/creating_the_iem_cloud_instance.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-management-cloud?cclcl=nl_NL)
+
 
 ### Device (IED)
+###### Industrial Edge Device - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_device/operation/apps/apps.html) [Manual](https://support.industry.siemens.com/cs/document/109826755/simatic-ipc-industrial-edge-device-operation-v2-0)
+###### Industrial Edge Device Service Stick - [Manual](https://support.industry.siemens.com/cs/document/109815667/industrial-edge-device-service-stick)
+###### Industrial Edge Virtual Device - [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-virtual-device?cclcl=nl_NL)
+######  SIMATIC IPC227G Industrial Edge Device - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ipc227g-industrial-edge-device?cclcl=nl_NL)
+######  SIMATIC IPC227E Industrial Edge Device - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ipc227e-industrial-edge-device?cclcl=nl_NL)
+######  SIMATIC IPC427E Industrial Edge Device - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ipc427e-industrial-edge-device?cclcl=nl_NL)
+######  SIMATIC IPC847E Industrial Edge Device - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ipc847e-industrial-edge-device?cclcl=nl_NL)
+######  SIMATIC IPC127E Industrial Edge Device - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ipc127e-industrial-edge-device?cclcl=nl_NL)
+######  SCALANCE LPE9413 (arm64) - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/scalance-lpe9413-arm64?cclcl=nl_NL)
+######  SIMATIC HMI Unified Comfort Panel - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-hmi-unified-comfort-panel?cclcl=nl_NL)
+
+
+### Licences
+###### Industrial Edge Management (1 Device) License - [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-device-license?cclcl=nl_NL)
+###### Mendix Device License - [Webdoc](https://docs.eu1.edge.siemens.cloud/develop_an_application/mendix/overview.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/mendix-device-license?cclcl=nl_NL)
 
 
 ## Applications
 ### Connectivity
-###### S7 Connector - [Manual](https://support.industry.siemens.com/cs/document/109823921/simatic-s7-connector-v2-0-0)<br>
+###### S7 Connector - [Manual](https://support.industry.siemens.com/cs/document/109823921/simatic-s7-connector-v2-0-0)
 ###### OPCUA Connector - [Manual](https://support.industry.siemens.com/cs/document/109825272/opc-ua-connector-v2-0-1)
+###### Cloud Connector - [Manual](https://support.industry.siemens.com/cs/document/109825262/cloud-connector-v1-13-0)
 ###### Audio Connector - [Manual](https://support.industry.siemens.com/cs/document/109805476/audio-connector-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/audio-connector)
 ###### Beckoff ADS Connector - [Manual](https://support.industry.siemens.com/cs/document/109814052/connector-for-beckhoff-ads), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/connector-for-beckhoff-ads)
 ###### Ethernet IP Connector - [Manual](https://support.industry.siemens.com/cs/document/109816942/ethernet-ip-connector-v2-1-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ethernet-ip-connector)
@@ -31,13 +58,16 @@ In this  summary, the provided information is bundled on various applications an
 ###### Softing edgePlug FANUC CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-fanuc-cnc)
 ###### Softing edgePlug SINUMERIK CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-sinumerik-cnc)
 
+
 ### Data management
+###### Databus - [Manual](https://support.industry.siemens.com/cs/document/109825263/databus-v2-3-1)
+###### Common Configurator - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/common-configurator)
 ###### IIH Common Import Converter - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/common-import-converter)
 ###### IIH Databus Gateway - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-databus-gateway)
 ###### IIH Registry Service - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-registry-service)
-###### Common Configurator - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/common-configurator)
 ###### IIH Essentials - [Manual](https://support.industry.siemens.com/cs/document/109826974/iih-essentials-for-industrial-edge), [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-essentials)
 ###### IIH Semantics - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-semantics)
+###### External Databus - [Manual](https://support.industry.siemens.com/cs/document/109818807/external-databus-v2-0-1?dti=0&lc=en-US)
 
 
 ###  Analytics 
@@ -58,6 +88,9 @@ In this  summary, the provided information is bundled on various applications an
 ###### Speech Assistant for Machines - [Manual](https://support.industry.siemens.com/cs/document/109791888/simatic-industrial-software-speech-assistant-for-machines), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sam-speech-assistant-for-machines-app)
 ###### SINEC Traffic Analyzer - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sinec-traffic-analyzer)
 
+### Other
+###### Tosibox® Lock for Container VPN - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/tosibox-lock-for-container)
+###### CPU 1517V - [Manual](https://support.industry.siemens.com/cs/document/109825448/s7-1500-virtual-controller-cpu-1517v-function-manual), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/cpu-1517v)
 
 ### Licenses
 ###### IIH Asset Attributes Upgrade - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-asset-attributes-upgrade)
