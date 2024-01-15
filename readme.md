@@ -14,7 +14,7 @@ In this  summary, the provided information is bundled on various applications an
 ###### SIMATIC AX Trace Diagnostics - [Manual](https://support.industry.siemens.com/cs/document/109815579/simatic-ax-trace-diagnostics-for-industrial-edge-v1-0-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ax-trace-diagnostics)
 ###### SIMATIC S7+ Connector - [Manual](https://support.industry.siemens.com/cs/document/109821942/simatic-s7-connector-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-S7plus-connector)
 ###### SLMP Connector - [Manual](https://support.industry.siemens.com/cs/document/109817632/slmp-connector-v2-1-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/slmp-connector)
-
+###### ###### Drive System Framework - [Manual](https://support.industry.siemens.com/cs/document/109826062/drive-system-framework), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/drive-system-framework)
 
 ### Data management
 ###### IIH Common Import Converter - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/common-import-converter)
@@ -24,11 +24,27 @@ In this  summary, the provided information is bundled on various applications an
 ###### IIH Essentials - [Manual](https://support.industry.siemens.com/cs/document/109826974/iih-essentials-for-industrial-edge), [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-essentials)
 ###### IIH Semantics - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-semantics)
 
+[manual](),
 
 ###  Analytics 
-######  - [Marketplace]()
-######  - [Marketplace]()
-######  - [Marketplace]()
+###### AI Inference Server - [manual](https://support.industry.siemens.com/cs/document/109814799/ai-inference-server), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ai-inference-server)
+###### AI Model Manager - [manual](https://support.industry.siemens.com/cs/document/109826049/ai-model-manager), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ai-model-manager)
+###### Analyze MyDrives - [manual](https://support.industry.siemens.com/cs/document/109825438/analyze-mydrives-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/analyze-mydrives)
+###### Anomaly Detection - [manual](https://support.industry.siemens.com/cs/document/109813204/anomaly-detection-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/anomaly-detection)
+###### Energy Manager - [manual](https://support.industry.siemens.com/cs/document/109823315/energy-manager-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/energy-manager)
+###### Inventory - [manual](https://support.industry.siemens.com/cs/document/109808805/inventory-application-v1-2-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/Inventory)
+###### LiveTwin - [manual](https://support.industry.siemens.com/cs/document/109780275/edge-livetwin-edge-app), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/livetwin)
+###### Machine Insight - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/machine-insight)
+###### Machine Monitor - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/machine-monitor-iem)
+###### Notifier - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/notifier)
+###### Performance Insight - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/performance-insight)
+###### SIMATIC Automation Tool - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-automation-tool-freemium)
+###### SIMATIC WinCC Unified Online Engineering - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-wincc-unified-online-engineering)
+###### SIMATIC WinCC Unified Runtime - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-wincc-unified-runtime)
+###### Speech Assistant for Machines - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sam-speech-assistant-for-machines-app)
+###### SINEC Traffic Analyzer - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sinec-traffic-analyzer)
+
+
 
 ###  3th party
 ###### Axtesys GmbH - MSSQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mssql-connector)
@@ -40,3 +56,7 @@ In this  summary, the provided information is bundled on various applications an
 
 ### Licenses
 ###### IIH Asset Attributes Upgrade - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-asset-attributes-upgrade)
+###### Performance Insight Asset Upgrade - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/performance-insight-asset-upgrade?cclcl=nl_NL)
+###### Notifier Rule Upgrade 15 - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/notifier-rule-upgrade-15?cclcl=nl_NL)
+###### Energy Manager Asset Upgrade - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/energy-manager-asset-upgrade?cclcl=nl_NL)
+
