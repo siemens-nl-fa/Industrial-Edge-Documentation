@@ -1,10 +1,11 @@
 # Documentation 
+In this  summary, the provided information is bundled on various applications and solutions along with direct links to their respective manuals and other things.
 ###### *No costs
 
 ## Applications
 ### Connectivity
-###### *S7 Connector - [Manual](https://support.industry.siemens.com/cs/document/109823921/simatic-s7-connector-v2-0-0)
-###### *OPCUA Connector - [Manual](https://support.industry.siemens.com/cs/document/109825272/opc-ua-connector-v2-0-1)
+*S7 Connector - [Manual](https://support.industry.siemens.com/cs/document/109823921/simatic-s7-connector-v2-0-0)
+*OPCUA Connector - [Manual](https://support.industry.siemens.com/cs/document/109825272/opc-ua-connector-v2-0-1)
 ###### Audio Connector - [Manual](https://support.industry.siemens.com/cs/document/109805476/audio-connector-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/audio-connector)
 ###### Beckoff ADS Connector - [Manual](https://support.industry.siemens.com/cs/document/109814052/connector-for-beckhoff-ads), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/connector-for-beckhoff-ads)
 ###### Ethernet IP Connector - [Manual](https://support.industry.siemens.com/cs/document/109816942/ethernet-ip-connector-v2-1-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ethernet-ip-connector)
