@@ -1,5 +1,5 @@
 # Documentation 
-###### *free App
+###### *No costs
 
 ## Applications
 ### Connectivity
@@ -37,5 +37,5 @@
 ###### Softing edgePlug FANUC CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-fanuc-cnc)
 ###### Softing edgePlug SINUMERIK CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-sinumerik-cnc)
 
-## Licenses
+### Licenses
 ###### IIH Asset Attributes Upgrade - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-asset-attributes-upgrade)
