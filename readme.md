@@ -14,7 +14,7 @@ In this  summary, the provided information is bundled on various applications an
 ###### SIMATIC AX Trace Diagnostics - [Manual](https://support.industry.siemens.com/cs/document/109815579/simatic-ax-trace-diagnostics-for-industrial-edge-v1-0-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ax-trace-diagnostics)
 ###### SIMATIC S7+ Connector - [Manual](https://support.industry.siemens.com/cs/document/109821942/simatic-s7-connector-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-S7plus-connector)
 ###### SLMP Connector - [Manual](https://support.industry.siemens.com/cs/document/109817632/slmp-connector-v2-1-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/slmp-connector)
-###### ###### Drive System Framework - [Manual](https://support.industry.siemens.com/cs/document/109826062/drive-system-framework), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/drive-system-framework)
+###### Drive System Framework - [Manual](https://support.industry.siemens.com/cs/document/109826062/drive-system-framework), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/drive-system-framework)
 ###### Axtesys GmbH - MSSQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mssql-connector)
 ###### Axtesys GmbH - MySQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mysql-connector)
 ###### Axtesys GmbH - Oracle Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/oracle-connector)
