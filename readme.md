@@ -27,22 +27,22 @@ In this  summary, the provided information is bundled on various applications an
 [manual](),
 
 ###  Analytics 
-###### AI Inference Server - [manual](https://support.industry.siemens.com/cs/document/109814799/ai-inference-server), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ai-inference-server)
-###### AI Model Manager - [manual](https://support.industry.siemens.com/cs/document/109826049/ai-model-manager), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ai-model-manager)
-###### Analyze MyDrives - [manual](https://support.industry.siemens.com/cs/document/109825438/analyze-mydrives-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/analyze-mydrives)
-###### Anomaly Detection - [manual](https://support.industry.siemens.com/cs/document/109813204/anomaly-detection-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/anomaly-detection)
-###### Energy Manager - [manual](https://support.industry.siemens.com/cs/document/109823315/energy-manager-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/energy-manager)
-###### Inventory - [manual](https://support.industry.siemens.com/cs/document/109808805/inventory-application-v1-2-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/Inventory)
-###### LiveTwin - [manual](https://support.industry.siemens.com/cs/document/109780275/edge-livetwin-edge-app), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/livetwin)
-###### Machine Insight - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/machine-insight)
-###### Machine Monitor - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/machine-monitor-iem)
-###### Notifier - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/notifier)
-###### Performance Insight - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/performance-insight)
-###### SIMATIC Automation Tool - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-automation-tool-freemium)
-###### SIMATIC WinCC Unified Online Engineering - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-wincc-unified-online-engineering)
-###### SIMATIC WinCC Unified Runtime - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-wincc-unified-runtime)
-###### Speech Assistant for Machines - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sam-speech-assistant-for-machines-app)
-###### SINEC Traffic Analyzer - [manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sinec-traffic-analyzer)
+###### AI Inference Server - [Manual](https://support.industry.siemens.com/cs/document/109814799/ai-inference-server), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ai-inference-server)
+###### AI Model Manager - [Manual](https://support.industry.siemens.com/cs/document/109826049/ai-model-manager), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/ai-model-manager)
+###### Analyze MyDrives - [Manual](https://support.industry.siemens.com/cs/document/109825438/analyze-mydrives-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/analyze-mydrives)
+###### Anomaly Detection - [Manual](https://support.industry.siemens.com/cs/document/109813204/anomaly-detection-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/anomaly-detection)
+###### Energy Manager - [Manual](https://support.industry.siemens.com/cs/document/109823315/energy-manager-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/energy-manager)
+###### Inventory - [Manual](https://support.industry.siemens.com/cs/document/109808805/inventory-application-v1-2-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/Inventory)
+###### LiveTwin - [Manual](https://support.industry.siemens.com/cs/document/109780275/edge-livetwin-edge-app), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/livetwin)
+###### Machine Insight - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/machine-insight)
+###### Machine Monitor - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/machine-monitor-iem)
+###### Notifier - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/notifier)
+###### Performance Insight - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/performance-insight)
+###### SIMATIC Automation Tool - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-automation-tool-freemium)
+###### SIMATIC WinCC Unified Online Engineering - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-wincc-unified-online-engineering)
+###### SIMATIC WinCC Unified Runtime - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-wincc-unified-runtime)
+###### Speech Assistant for Machines - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sam-speech-assistant-for-machines-app)
+###### SINEC Traffic Analyzer - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sinec-traffic-analyzer)
 
 
 
