@@ -4,7 +4,7 @@ In this  summary, the provided information is bundled on various applications an
 <br>
 
 ## Ecosystem
-###### Security - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/security/security_overview/gdpr.html), [Manual](https://support.industry.siemens.com/cs/document/109814450/industrial-edge-security-overview-10-22?dti=0&lc=en-US) [Manual - IPC](https://support.industry.siemens.com/cs/document/109823654/simatic-ipc-industrial-edge-device-security-manual-v1-0?dti=0&lc=en-US)
+###### Security - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/security/security_overview/gdpr.html), [Manual](https://support.industry.siemens.com/cs/document/109814450/industrial-edge-security-overview-10-22?dti=0&lc=en-US), [Manual - IPC](https://support.industry.siemens.com/cs/document/109823654/simatic-ipc-industrial-edge-device-security-manual-v1-0?dti=0&lc=en-US)
 ###### Updates - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/update_procedures/overview.html), [Manual](https://support.industry.siemens.com/cs/document/109813153/industrial-edge-update-procedures-08-22?dti=0&lc=en-US)
 ###### APIs & References - [Webdoc - APIs](https://docs.eu1.edge.siemens.cloud/apis_and_references/apis/index.html), [Webdoc - Ctl](https://docs.eu1.edge.siemens.cloud/apis_and_references/iectl/index.html)  
 * <sub><sup> [iectl-workflow](https://github.com/industrial-edge/iectl-workflow), [ied-logging-and-monitoring](https://github.com/industrial-edge/ied-logging-and-monitoring),| [jenkins-cicd](https://github.com/industrial-edge/jenkins-cicd), [rest-api-mass-device-onboarding](https://github.com/industrial-edge/rest-api-mass-device-onboarding), [upload-app-to-iem-ie-app-publisher-cli](https://github.com/industrial-edge/upload-app-to-iem-ie-app-publisher-cli) </sup></sub>
@@ -12,7 +12,7 @@ In this  summary, the provided information is bundled on various applications an
 <br>
 
 ### Hub (IEHUB)
-###### Industrial Edge Hub Access - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_hub/setup/ieh_index.html) [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-access?cclcl=nl_NL)
+###### Industrial Edge Hub Access - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_hub/setup/ieh_index.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-access?cclcl=nl_NL)
 ###### Hub-to-Hub Credit - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_hub/operation/application_provisioning/hub2hub.html), [Marketplace](https://www.dex.siemens.com/edge/get-started/hub-to-hub-credit?cclcl=nl_NL)
 
 <br>
