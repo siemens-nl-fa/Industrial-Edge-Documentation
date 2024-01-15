@@ -15,6 +15,12 @@ In this  summary, the provided information is bundled on various applications an
 ###### SIMATIC S7+ Connector - [Manual](https://support.industry.siemens.com/cs/document/109821942/simatic-s7-connector-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-S7plus-connector)
 ###### SLMP Connector - [Manual](https://support.industry.siemens.com/cs/document/109817632/slmp-connector-v2-1-0), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/slmp-connector)
 ###### ###### Drive System Framework - [Manual](https://support.industry.siemens.com/cs/document/109826062/drive-system-framework), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/drive-system-framework)
+###### Axtesys GmbH - MSSQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mssql-connector)
+###### Axtesys GmbH - MySQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mysql-connector)
+###### Axtesys GmbH - Oracle Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/oracle-connector)
+###### Axtesys GmbH - PostgreSQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/postgresql-connector)
+###### Softing edgePlug FANUC CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-fanuc-cnc)
+###### Softing edgePlug SINUMERIK CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-sinumerik-cnc)
 
 ### Data management
 ###### IIH Common Import Converter - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/common-import-converter)
@@ -44,15 +50,6 @@ In this  summary, the provided information is bundled on various applications an
 ###### Speech Assistant for Machines - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sam-speech-assistant-for-machines-app)
 ###### SINEC Traffic Analyzer - [Manual](), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/sinec-traffic-analyzer)
 
-
-
-###  3th party
-###### Axtesys GmbH - MSSQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mssql-connector)
-###### Axtesys GmbH - MySQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mysql-connector)
-###### Axtesys GmbH - Oracle Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/oracle-connector)
-###### Axtesys GmbH - PostgreSQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/postgresql-connector)
-###### Softing edgePlug FANUC CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-fanuc-cnc)
-###### Softing edgePlug SINUMERIK CNC Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/softing-edgeplug-sinumerik-cnc)
 
 ### Licenses
 ###### IIH Asset Attributes Upgrade - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-asset-attributes-upgrade)
