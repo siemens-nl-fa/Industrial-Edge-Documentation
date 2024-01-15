@@ -1,7 +1,6 @@
 # Documentation 
 In this  summary, the provided information is bundled on various applications and solutions along with direct links to their respective manuals and other things.
 
-###### Name - []()
 
 ## Ecosystem
 ###### Security - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/security/security_overview/gdpr.html), [Manual](https://support.industry.siemens.com/cs/document/109814450/industrial-edge-security-overview-10-22?dti=0&lc=en-US) [Manual - IPC](https://support.industry.siemens.com/cs/document/109823654/simatic-ipc-industrial-edge-device-security-manual-v1-0?dti=0&lc=en-US)
@@ -20,7 +19,7 @@ In this  summary, the provided information is bundled on various applications an
 
 
 ### Device (IED)
-###### Industrial Edge Device - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_device/operation/apps/apps.html) [Manual](https://support.industry.siemens.com/cs/document/109826755/simatic-ipc-industrial-edge-device-operation-v2-0)
+###### Industrial Edge Device - [Webdoc](https://docs.eu1.edge.siemens.cloud/get_started_and_operate/industrial_edge_device/operation/apps/apps.html), [Manual](https://support.industry.siemens.com/cs/document/109826755/simatic-ipc-industrial-edge-device-operation-v2-0)
 ###### Industrial Edge Device Service Stick - [Manual](https://support.industry.siemens.com/cs/document/109815667/industrial-edge-device-service-stick)
 ###### Industrial Edge Virtual Device - [Marketplace](https://www.dex.siemens.com/edge/get-started/industrial-edge-virtual-device?cclcl=nl_NL)
 ######  SIMATIC IPC227G Industrial Edge Device - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/simatic-ipc227g-industrial-edge-device?cclcl=nl_NL)
