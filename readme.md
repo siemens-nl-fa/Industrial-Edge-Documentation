@@ -2,7 +2,7 @@
 *is a Free App
 
 ## Applications
-### Applications - Connectivity
+### Connectivity
 ###### S7 Connector* - [Manual](https://support.industry.siemens.com/cs/document/109823921/simatic-s7-connector-v2-0-0)
 ###### OPCUA Connector* - [Manual](https://support.industry.siemens.com/cs/document/109825272/opc-ua-connector-v2-0-1)
 ###### Audio Connector - [Manual](https://support.industry.siemens.com/cs/document/109805476/audio-connector-for-industrial-edge), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/audio-connector)
@@ -16,7 +16,7 @@
 ######  - [Marketplace]()
 ######  - [Marketplace]()
 
-### Applications - Data management
+### Data management
 ###### IIH Common Import Converter* - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/common-import-converter)
 ###### IIH Databus Gateway* - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-databus-gateway)
 ###### IIH Registry Service* - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-registry-service)
@@ -25,10 +25,10 @@
 ###### IIH Semantics - [Manual IIH](https://support.industry.siemens.com/cs/document/109826743/industrial-information-hub-v1-9), [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/iih-semantics)
 
 
-### Applications - Analytics 
+###  Analytics 
 ######  - [Marketplace]()
 
-### Applications - 3th party
+###  3th party
 ###### Axtesys GmbH - MSSQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mssql-connector)
 ###### Axtesys GmbH - MySQL Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/mysql-connector)
 ###### Axtesys GmbH - Oracle Connector - [Marketplace](https://www.dex.siemens.com/edge/build-your-solution/oracle-connector)
