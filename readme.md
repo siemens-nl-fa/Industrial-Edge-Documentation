@@ -119,6 +119,7 @@ In this  summary, the provided information is bundled on various applications an
 ###### Tank Application sample project - [github-miscellaneous](https://github.com/industrial-edge/miscellaneous)
 ###### Profibus - [githubprofibus-to-edge-connection-getting-started](https://github.com/industrial-edge/profibus-to-edge-connection-getting-started)
 ###### Simotion - [githubsimotion-trace-connector-getting-started](https://github.com/industrial-edge/simotion-trace-connector-getting-started)
+###### Unified Comfort Panel - [industrial-edge-applications-in-conjunction-with-the-simatic-hmi-unified-comfort-panel](https://support.industry.siemens.com/cs/document/109778780/industrial-edge-applications-in-conjunction-with-the-simatic-hmi-unified-comfort-panel)
 
 <br>
 
